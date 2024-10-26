@@ -58,7 +58,7 @@ Program ini ditulis dalam bahasa Python dan memiliki fitur sebagai berikut:
 - Menampilkan angka tertinggi yang berhasil ditemukan
 
 ## Flowchart
-
+![flowchart](mencaribilanganterbesarmenggunakanlooping.jpg)
 ## code
 ````
 bilangan = int(input("masukan bilangan: "))
