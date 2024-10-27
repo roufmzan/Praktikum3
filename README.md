@@ -61,15 +61,14 @@ Program ini ditulis dalam bahasa Python dan memiliki fitur sebagai berikut:
 ![flowchart](mencaribilanganterbesarmenggunakanlooping.jpg)
 ## code
 ````
-bilangan = int(input("masukan bilangan: "))
-max = 0
-
-while bilangan != 0:
-    if bilangan > 0:
-        max = bilangan
-    bilangan = int(input("masukan bilangan 0 untuk berhenti: "))
-    
-print(f"adalah bilangan terbesar{max}")
+max = 0                                              
+while True:                                          
+    bilangan = int(input("Masukan bilangan(0 untuk berhenti): "))  
+    if bilangan == 0:                               
+        break                                       
+    if bilangan > max:                     
+        max = bilangan                     
+print(f"Bilangan terbesar: {max}")
 ````
 ## output
 ````
