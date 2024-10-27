@@ -72,19 +72,21 @@ print(f"Bilangan terbesar: {max}")
 ````
 ## output
 ````
-masukan bilangan: 
+Masukan bilangan(0 untuk berhenti): 
 10
-masukan bilangan 0 untuk berhenti: 
+Masukan bilangan(0 untuk berhenti): 
 20
-masukan bilangan 0 untuk berhenti: 
-30
-masukan bilangan 0 untuk berhenti: 
+Masukan bilangan(0 untuk berhenti): 
 40
-masukan bilangan 0 untuk berhenti: 
-50
-masukan bilangan 0 untuk berhenti: 
+Masukan bilangan(0 untuk berhenti): 
+60
+Masukan bilangan(0 untuk berhenti): 
+70
+Masukan bilangan(0 untuk berhenti): 
+30
+Masukan bilangan(0 untuk berhenti): 
 0
-adalah bilangan terbesar50
+Bilangan terbesar: 70
 ````
 ## Penjelasan Kode
 
