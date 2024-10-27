@@ -1,4 +1,4 @@
-# Program mencari bilangan terbesar dari 3 variable yang diinputkan
+# Program mencari bilangan terbesar dari 3 bilangan yang diinputkan
 Program sederhana menentukan bilangan terbesar dari tiga angka yang diinputkan pengguna
 ## Rincian Program
 program ini ditulis menggunakan bahasa python dan memiliki fungsi sebagai berikut:
