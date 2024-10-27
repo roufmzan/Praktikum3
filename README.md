@@ -1,3 +1,10 @@
+# Membuat tugas kode program dari flowcart
+Nama: Ro'uf Muhammad Fauzan
+
+Kelas: TI.24.A.1
+
+NIM: 312410157
+
 # Program mencari bilangan terbesar dari 3 bilangan yang diinputkan
 Program sederhana menentukan bilangan terbesar dari tiga angka yang diinputkan pengguna
 ## Rincian Program
